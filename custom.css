@@ -1,0 +1,11 @@
+.separar{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    display: block;
+    border: none;
+}
+
+input[type="text"], textarea {
+    background-color :white; 
+    color: white;
+  }
