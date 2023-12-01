@@ -4,7 +4,7 @@ function calculo(val1, val2) {
 
   var taxas = [3.326, 4.416, 5.125, 5.875, 6.61, 7.358, 8.396, 9.179, 9.965, 10.763, 11.585, 12.406, 13.246, 14.094, 14.96, 15.833, 16.72, 17.63];
 
-  let taxa_debito = 1.10;
+  let taxa_debito = 1.112;
   var valor_parcelas = [];
   var valor_total = [];
 
