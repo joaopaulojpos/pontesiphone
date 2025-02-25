@@ -8,4 +8,8 @@
 input[type="text"], textarea {
     background-color :white; 
     color: white;
-  }
+}
+
+.card {
+    border: 1px solid #c62828;
+}
